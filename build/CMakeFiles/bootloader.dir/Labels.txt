@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/VIAM_LAB/Set-Time-RTC-master/build/CMakeFiles/bootloader
+D:/VIAM_LAB/Set-Time-RTC-master/build/CMakeFiles/bootloader.rule
+D:/VIAM_LAB/Set-Time-RTC-master/build/CMakeFiles/bootloader-complete.rule
+D:/VIAM_LAB/Set-Time-RTC-master/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/VIAM_LAB/Set-Time-RTC-master/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/VIAM_LAB/Set-Time-RTC-master/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/VIAM_LAB/Set-Time-RTC-master/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/VIAM_LAB/Set-Time-RTC-master/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/VIAM_LAB/Set-Time-RTC-master/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/VIAM_LAB/Set-Time-RTC-master/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -1,0 +1,4 @@
+[0/1] Re-running CMake...
+FAILED: build.ninja 
+D:\Espressif\tools\cmake\3.23.1\bin\cmake.exe --regenerate-during-build -SD:\VIAM_LAB\Set-Time-RTC-master -BD:\VIAM_LAB\Set-Time-RTC-master\build
+CreateProcess failed: The system cannot find the file specified.
